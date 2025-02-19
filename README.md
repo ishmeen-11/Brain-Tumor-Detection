@@ -87,8 +87,8 @@ The confusion matrix breakdown is shown below:
 ### ▶️ Running the Code
 1️⃣ Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/brain-tumor-detection.git
-   cd brain-tumor-detection
+   git clone https://github.com/ishmeen-11/Brain-Tumor-Detection.git
+   cd Brain-Tumor-Detection
    ```
 2️⃣ Upload the dataset to **Google Drive** and mount it in Colab.
 3️⃣ Run the **notebook step by step**. 🚀
