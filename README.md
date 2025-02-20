@@ -1,7 +1,7 @@
 # 🧠 Brain Tumor Detection using SVM 🏥
 
 ## 📌 Overview
-This project applies **Support Vector Machine (SVM)** for **brain tumor classification** using MRI images. The dataset contains MRI scans categorized into:
+This project is part of my *30-day data science challenge* where I complete one project per day using different machine learning models. On *Day 2*, I implemented a **Support Vector Machine (SVM)** for **brain tumor classification** using MRI images. The dataset contains MRI scans categorized into:
 - 🟢 **Glioma Tumor**
 - 🔵 **Meningioma Tumor**
 - 🟡 **No Tumor**
@@ -97,6 +97,8 @@ The confusion matrix breakdown is shown below:
 ## 🔮 Future Improvements
 ✨ Use **Deep Learning models (CNNs)** for better accuracy.  
 ✨ Apply **Data Augmentation** to improve model generalization.  
+
+🛠️ **This is part of my 30-day challenge where I explore different ML models daily. Stay tuned for Day 4!** 🎯
 
 ## 👨‍💻 Author
 Ishmeen Garewal ✨
